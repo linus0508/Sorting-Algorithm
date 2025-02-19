@@ -1,0 +1,14 @@
+/Users/linus/Documents/Programming/VisualStudio/Sorting/Sorting/bin/Debug/net6.0/Sorting
+/Users/linus/Documents/Programming/VisualStudio/Sorting/Sorting/bin/Debug/net6.0/Sorting.deps.json
+/Users/linus/Documents/Programming/VisualStudio/Sorting/Sorting/bin/Debug/net6.0/Sorting.runtimeconfig.json
+/Users/linus/Documents/Programming/VisualStudio/Sorting/Sorting/bin/Debug/net6.0/Sorting.dll
+/Users/linus/Documents/Programming/VisualStudio/Sorting/Sorting/bin/Debug/net6.0/Sorting.pdb
+/Users/linus/Documents/Programming/VisualStudio/Sorting/Sorting/obj/Debug/net6.0/Sorting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/linus/Documents/Programming/VisualStudio/Sorting/Sorting/obj/Debug/net6.0/Sorting.AssemblyInfoInputs.cache
+/Users/linus/Documents/Programming/VisualStudio/Sorting/Sorting/obj/Debug/net6.0/Sorting.AssemblyInfo.cs
+/Users/linus/Documents/Programming/VisualStudio/Sorting/Sorting/obj/Debug/net6.0/Sorting.csproj.CoreCompileInputs.cache
+/Users/linus/Documents/Programming/VisualStudio/Sorting/Sorting/obj/Debug/net6.0/Sorting.dll
+/Users/linus/Documents/Programming/VisualStudio/Sorting/Sorting/obj/Debug/net6.0/refint/Sorting.dll
+/Users/linus/Documents/Programming/VisualStudio/Sorting/Sorting/obj/Debug/net6.0/Sorting.pdb
+/Users/linus/Documents/Programming/VisualStudio/Sorting/Sorting/obj/Debug/net6.0/Sorting.genruntimeconfig.cache
+/Users/linus/Documents/Programming/VisualStudio/Sorting/Sorting/obj/Debug/net6.0/ref/Sorting.dll
